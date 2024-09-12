@@ -452,7 +452,7 @@
 
                 </div>
 
-                <div id="localEntrega" class="row mr-0 ml-0">
+                <div id="localEntrega" class="row mr-0 ml-0 hidden">
 
                     <div class="col-4">
                         <div class="form-group container-cep">
@@ -536,8 +536,57 @@
                     </div>
                 </div>
 
-                <div id="resumeCarrinho" class="row mr-0 ml-0 hidden">
+                <div id="resumeCarrinho" class="row mr-0 ml-0">
+                    <div class="col-12">
+                        <p class="title-carrinho mt-4">
+                            <b>Itens do pedido</b>
+                        </p>
+                    </div>
+                    <div class="col-12">
+                        <div class="row" id="listaItensResumo">
 
+                            <div class="col-12 item-carrinho resumo">
+                                <div class="img-produto-resumo">
+                                    <img src="./img/cardapio/burguers/gotts-complete-cheeseburger-kit-for-4.7bdc74104b193427b3fe6eae39e05b5e.jpg" >
+
+                                </div>
+                                <div class="dados-produto">
+                                    <p class="title-produto-resumo">
+                                        <b>Nome do produto</b>
+                                    </p>
+                                    <p class="price-produto-resumo">
+                                        <b></b>R$ 100,00</b>
+                                    </p>
+                                </div>
+                                <p class="quantidade-produto-resumo">
+                                    x <b>3</b>
+                                </p>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="col-12">
+                        <p class="title-carrinho mt-4">
+                            <b>Local da entrega:</b>
+                        </p>
+                    </div>
+
+                    <div class="col-12 item-carrinho resumo">
+                        <div class="img-map">
+                            <i class="fas fa-map-marked-alt"></i>
+                        </div>
+                        <div class="dados-produto">
+                            <p class="texto-endereco">
+                                <b id="resumo-endereco">Rua José Nicolau do nascimento, 195, Benfica</b>
+                            </p>
+                            <p class="cidade-endereco" id="cidade-endereco">
+                                Juiz de Fora - MG / 36090-652
+                            </p>
+                        </div>
+                    </div>
+
+                    
                 </div>
             </div>
         </div>
