@@ -47,8 +47,8 @@ cardapio.metodos = {
                 .replace(/\${price}/g, e.price.toFixed(2).replace('.', ','))
                 .replace(/\${id}/g, e.id)
 
-            //botão ver mais foi clicado (12 itens)
-            if (vermais && i >= 8 && i < 12) {
+            //botão ver mais foi clicado (20 itens)
+            if (vermais && i >= 8) {
                 $("#itensCardapio").append(temp)
             }
 
