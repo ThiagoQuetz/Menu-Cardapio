@@ -180,6 +180,13 @@ var MENU = {
             "dsc": "Jacques' World Famous Chocolate Chip Cookies - 6 Pack",
             "price": 20
         },
+        {
+            "id": "empadao-frango",
+            "img": "./img/cardapio/churrasco/big-empadao.jpeg",
+            "name": "Big Torta de frango",
+            "dsc": "Mighty Quinn's BBQ Sampler Pack",
+            "price": 54.90
+        },
         // {
         //     "id": "luigis-original-cannoli-pie",
         //     "img": "./img/cardapio/sobremesas/original-cannoli-pie.4cb5b9ba82f57b69b90765fd9f07aa1a.jpg",
@@ -360,7 +367,7 @@ var MENU = {
             "price": 54.90
         },
         {
-            "id": "quatro Queijos",
+            "id": "quatro-Queijos",
             "img": "./img/cardapio/pizzas/6-lou-malnatis-deep-dish-pizzas.f59993181da5d295668c8a6fb856055e.jpg",
             "name": "Quatro Queijos",
             "dsc": "6 Lou Malnati's Deep Dish Pizzas",
@@ -374,21 +381,21 @@ var MENU = {
             "price": 54.90
         },
         {
-            "id": "frango com Catupiry",
+            "id": "frango-com-Catupiry",
             "img": "./img/cardapio/pizzas/choose-your-own-deep-dish-pizza-3-pack.4111791511244a4946bb5c9ad2c17da9.jpg",
             "name": "Frango com Catupiry",
             "dsc": "Choose Your Own Deep Dish Pizza - 3 Pack",
             "price": 54.90
         },
         {
-            "id": "frango com Cheddar",
+            "id": "frango-com-Cheddar",
             "img": "./img/cardapio/pizzas/detroit-style-pizza-choose-your-own-3-pack.6b6f4909ffd4066d5471e70eac5c3d89.jpg",
             "name": "Frango com Cheddar",
             "dsc": "Detroit-Style Pizza - Choose Your Own 3 Pack",
             "price": 54.90
         },
         {
-            "id": "frango com Palmito",
+            "id": "frango-com-Palmito",
             "img": "./img/cardapio/pizzas/brooklyn-pizza-choose-your-own-5-pack.edc4f476a75207d0af840ce6f225f2b3.jpg",
             "name": "Frango com Palmito",
             "dsc": "Brooklyn Pizza - Choose Your Own 5 Pack",
@@ -430,11 +437,18 @@ var MENU = {
             "price": 54.90
         },
         {
-            "id": "peito de Peru",
+            "id": "peito-de-Peru",
             "img": "./img/cardapio/pizzas/wood-fired-pizzas-best-seller-4-pack.1653bb05922ba153ac178f8365d27f6d.jpg",
             "name": "Peito de Peru",
             "dsc": "Plain Thin Crust Pizza - 4 Pack",
             "price": 54.90
+        },
+        {
+            "id": "brotinho",
+            "img": "./img/cardapio/pizzas/pizza-brotinho.png",
+            "name": "Pizza Brotinho",
+            "dsc": "Plain Thin Crust Pizza - 4 Pack",
+            "price": 7.90
         },
     ],
    
