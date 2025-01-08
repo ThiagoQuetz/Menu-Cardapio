@@ -5,77 +5,77 @@ var MENU = {
             "img": "./img/cardapio/churrasco/espaguete-bolonhesa.jpeg",
             "name": "Espaguete a Bolanhesa",
             "dsc": "Joe's KC Ribs, Brisket & Burnt Ends",
-            "price": 20
+            "price": 22
         },
         {
             "id": "espaguete-a-parisiense",
             "img": "./img/cardapio/churrasco/espaguete-parisiense.png",
             "name": "Espagguete a Parisiense",
             "dsc": "Carolina BBQ Oink Sampler",
-            "price": 20
+            "price": 22
         },
         {
             "id": "espaguete-ao-sugo",
             "img": "./img/cardapio/churrasco/espaguete-sugo.jpeg",
             "name": "Espaguete ao Sugo",
             "dsc": "Texas Monthly's #1 BBQ Brisket",
-            "price": 20
+            "price": 22
         },
         {
             "id": "nhoque-a-bolonhesa",
             "img": "./img/cardapio/churrasco/nhoque-bolonhesa.jpeg",
             "name": "Nhoque a Bolonhesa",
             "dsc": "Whole Brisket + Texas Barbecue BBQ Sauce",
-            "price": 20
+            "price": 22
         },
         {
             "id": "nhoque-a-parisiense",
             "img": "./img/cardapio/churrasco/nhoque-parisiense.png",
             "name": "Nhoque a Parisiense",
             "dsc": "Whole Texas Smoked Brisket",
-            "price": 20
+            "price": 22
         },
         {
             "id": "nhoque-ao-sugo",
             "img": "./img/cardapio/churrasco/nhoque-ao-sugo.jpg",
             "name": "Nhoque ao Sugo",
             "dsc": "Mini Trinity BBQ Combo - Brisket, Ribs & Links",
-            "price": 20
+            "price": 22
         },
         {
             "id": "escondidinho-carne-moida",
             "img": "./img/cardapio/churrasco/escondidinho-carne-moida.jpg",
             "name": "Escondidinho carne moída",
             "dsc": "Blue Smoke Baby Back Ribs + Backyard Barbecue Chicken Combo",
-            "price": 20
+            "price": 22
         },
         {
             "id": "escondidinho-de-frango",
             "img": "./img/cardapio/churrasco/escondidinho-de-frango.jpg",
             "name": "Escondidinho de Frango",
             "dsc": "BBQ Meat Lovers Special for 10",
-            "price": 20
+            "price": 22
         },
         {
             "id": "lasanha-bolonhesa",
             "img": "./img/cardapio/churrasco/lasanha-bolonhesa.jpg",
             "name": "Lasanha a Bolonhesa",
             "dsc": "The Big Ugly BBQ Dinner for 6",
-            "price": 20
+            "price": 22
         },
         {
             "id": "lasanha-presunto-queijo",
             "img": "./img/cardapio/churrasco/lasanha-presunto-queijo.png",
             "name": "Lasanha de presunto e queijo",
             "dsc": "Mighty Quinn's BBQ Sampler Pack",
-            "price": 20
+            "price": 22
         },
         {
             "id": "lasanha-quatro-queijos",
             "img": "./img/cardapio/churrasco/lasanha-4-queijos.png",
             "name": "Lasanha quatro queijos",
             "dsc": "Post Oak Smoked USDA Prime Half Brisket",
-            "price": 20
+            "price": 22
         }
     
     ],
